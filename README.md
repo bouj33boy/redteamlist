@@ -9,7 +9,7 @@ Taken from <https://github.com/infosecn1nja/Red-Teaming-Toolkit> and turned into
 
 and sticking 'git clone' in front lol
 
-Open redlist.txt file
+Open redteamlist.txt file
 cmd + a (or) crtl + a 
 cmd + c (or) crtl + c
 
