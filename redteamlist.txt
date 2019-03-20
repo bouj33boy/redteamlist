@@ -18,7 +18,6 @@ git clone 	https://github.com/nccgroup/typofinder
 git clone 	https://github.com/thewhiteh4t/pwnedOrNot
 git clone 	https://github.com/metac0rtex/GitHarvester
 git clone 	https://github.com/davidtavarez/pwndb/
-git clone 	https://www.paterva.com/web7/downloads.php
 git clone 	https://github.com/smicallef/spiderfoot
 git clone 	https://github.com/DataSploit/datasploit
 git clone 	https://bitbucket.org/LaNMaSteR53/recon-ng
@@ -38,7 +37,6 @@ git clone 	https://github.com/danielbohannon/Invoke-Obfuscation
 git clone 	https://github.com/danielbohannon/Invoke-DOSfuscation
 git clone 	https://github.com/vysec/morphHTA
 git clone 	https://github.com/trustedsec/unicorn
-git clone 	https://www.shellterproject.com/
 git clone 	https://github.com/Arno0x/EmbedInHTML
 git clone 	https://github.com/secretsquirrel/SigThief
 git clone 	https://github.com/Veil-Framework/Veil
@@ -85,7 +83,6 @@ git clone 	https://github.com/pentestgeek/phishing-frenzy
 git clone 	https://github.com/L4bF0x/PhishingPretexts
 git clone 	https://github.com/drk1wi/Modlishka
 git clone 	https://github.com/beefproject/beef
-git clone 	https://cobaltstrike.com/
 git clone 	https://github.com/EmpireProject/Empire
 git clone 	https://github.com/rapid7/metasploit-framework
 git clone 	https://github.com/byt3bl33d3r/SILENTTRINITY
@@ -127,7 +124,6 @@ git clone 	https://github.com/violentlydave/mkhtaccess_red
 git clone 	https://github.com/outflanknl/RedFile
 git clone 	https://github.com/leoloobeek/keyserver
 git clone 	https://github.com/ryhanson/ExternalC2
-git clone 	https://www.cobaltstrike.com/
 git clone 	https://github.com/SpiderLabs/DoHC2
 git clone 	https://github.com/byt3bl33d3r/CrackMapExec
 git clone 	https://github.com/Mr-Un1k0d3r/PowerLessShell
@@ -147,7 +143,6 @@ git clone 	https://github.com/ChrisTruncer/WMIOps
 git clone 	https://github.com/gentilkiwi/mimikatz
 git clone 	https://github.com/AlessandroZ/LaZagne
 git clone 	https://github.com/huntergregal/mimipenguin
-git clone 	https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
 git clone 	https://github.com/HarmJ0y/KeeThief
 git clone 	https://github.com/jaredhaight/PSAttack
 git clone 	https://github.com/eladshamir/Internal-Monologue
@@ -176,7 +171,6 @@ git clone 	https://github.com/l0ss/Grouper
 git clone 	https://github.com/sense-of-security/ADRecon
 git clone 	https://github.com/canix1/ADACLScanner
 git clone 	https://github.com/leoloobeek/LAPSToolkit
-git clone 	https://www.pingcastle.com/download
 git clone 	https://github.com/cyberark/RiskySPN
 git clone 	https://github.com/machosec/Mystique
 git clone 	https://github.com/GhostPack/Rubeus
@@ -203,8 +197,6 @@ git clone 	https://github.com/ebursztein/malusb
 git clone 	https://github.com/Orange-Cyberdefense/fenrir-ocd
 git clone 	https://github.com/samyk/poisontap
 git clone 	https://github.com/whid-injector/WHID
-git clone 	https://rocket.chat/
-git clone 	https://etherpad.net/
 git clone 	https://github.com/outflanknl/RedELK/
 git clone 	https://github.com/vysec/CobaltSplunk
 git clone 	https://github.com/ztgrace/red_team_telemetry
